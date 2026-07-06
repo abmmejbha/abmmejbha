@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abm_mejbha" target="blank"><img src="https://img.shields.io/twitter/follow/abm_mejbha?logo=twitter&style=for-the-badge" alt="abm_mejbha" /></a> </p>
 
-- 🌱 Currently studying **CSE at BUBT (3rd Year)**
+- 🌱 Currently studying **CSE at BUBT**
 - 💻 Focused on **MERN Stack** — React, Next.js, Node.js, Express, MongoDB
 - 🌐 Portfolio: [abmmejbha.me](https://abmmejbha.me)
 - 💬 Ask me about **React, Next.js, Express, MongoDB, REST APIs**
