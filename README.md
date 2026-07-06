@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abm_mejbha" target="blank"><img src="https://img.shields.io/twitter/follow/abm_mejbha?logo=twitter&style=for-the-badge" alt="abm_mejbha" /></a> </p>
 
-- 🌱 I’m currently Studying ** CSE**
+- 🌱 I’m currently Studying *CSE*
 
 - 💬 Ask me about ****
 
